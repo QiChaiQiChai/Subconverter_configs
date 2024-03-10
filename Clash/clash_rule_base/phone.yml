@@ -4,8 +4,6 @@ mixed-port: 20112
 allow-lan: true
 log-level: debug
 interface-name: ""
-port: 0
-socks-port: 0
 secret: ""
 external-controller: 127.0.0.1:20113
 external-ui: ""
